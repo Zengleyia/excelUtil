@@ -2,9 +2,6 @@ package com.itechsun.excel.domian;
 
 import java.io.InputStream;
 
-/**
- * Created by cary on 6/15/17.
- */
 public class ExcelObject {
     /**
      * ÃªÃû³Æ

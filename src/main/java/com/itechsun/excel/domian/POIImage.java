@@ -12,9 +12,6 @@ import org.apache.poi.ss.usermodel.Sheet;
 import java.awt.Dimension;
 import java.util.List;
 
-/**
- * Created by cary on 6/15/17.
- */
 public class POIImage {
     protected Dimension dimension;
     protected byte[] bytes;

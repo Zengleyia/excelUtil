@@ -4,9 +4,6 @@ import com.itextpdf.text.Document;
 
 import java.io.OutputStream;
 
-/**
- * Created by cary on 6/15/17.
- */
 public class PdfTool {
     //
     protected Document document;
